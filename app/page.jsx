@@ -43,6 +43,11 @@ const features = [
     title: "Key-rooms",
     description: "Locked rooms throughout Chernarus hiding valuable loot. Find the keys, unlock the secrets.",
   },
+  {
+    icon: "⭐",
+    title: "XP Skill Tree",
+    description: "Earn experience and unlock powerful skills. Customize your survivor with a progression system that rewards your playstyle.",
+  },
 ];
 
 function FloatingParticle({ delay, duration, left }) {
